@@ -1,7 +1,7 @@
 
 
-function showAlert() {
-    alert ("Hello world!");
+function test_alert() {
+    alert("Hello world!");
   }
 
 
